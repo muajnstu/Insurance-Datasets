@@ -16,7 +16,7 @@
 ## File Naming Convention
 Each file follows the format:
 
-D-<FeatureSubset>-<Transformation>
+D_FeatureSubset_Transformation
 
 ---
 
