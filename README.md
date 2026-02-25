@@ -46,5 +46,4 @@ D_FeatureSubset_Transformation
 
 ---
 
-This README ensures reviewers can **map abbreviations to their meaning** and understand the transformations applied.
 
