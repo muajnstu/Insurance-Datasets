@@ -16,9 +16,11 @@
 ## File Naming Convention
 Each file follows the format:
 
+D-<FeatureSubset>-<Transformation>
+
 ---
 
-## 🔹 Dataset Index
+## Dataset Index
 
 | File Name        | Short Note |
 |------------------|------------|
