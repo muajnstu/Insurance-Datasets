@@ -1,3 +1,11 @@
+## Primary Data Sources
+
+- **US Health Insurance Dataset**: [Kaggle Link](https://www.kaggle.com/datasets/teertha/ushealthinsurancedataset/data)  
+- **Indian Health Insurance Dataset**: [Kaggle Link](https://www.kaggle.com/datasets/tejashvi14/medical-insurance-premium-prediction?select=Medicalpremium.csv)  
+- **Extended Kaggle Dataset**: [Kaggle Link](https://www.kaggle.com/datasets/gdeepakreddy/insurance?select=Data.csv)  
+
+---
+
 ##  Feature Subset Abbreviations
 - **D_MI** → Dataset derived from applying **Mutual Information** feature selection technique  
 - **D_SFS** → Dataset derived from applying **Sequential Feature Selection** technique  
